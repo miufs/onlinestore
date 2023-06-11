@@ -1,0 +1,6 @@
+/.vs
+/OnlineStore/bin
+/OnlineStore/obj
+
+*.vsidx
+*.wsuo
